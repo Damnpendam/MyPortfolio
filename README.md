@@ -60,7 +60,7 @@ __TestProject.io and Test Sigma__
   * Analyze comprehensive test reports, and analyze testing results in real-time.
 
 __Lambda Test & BrowserStack__
-  * Skilled in using BrowserStack and LambdaTest for cross-browser and cross-platform testing of web applications.
+  * Used BrowserStack and LambdaTest for cross-browser and cross-platform testing of web applications.
   * Can run automated and manual tests, collaborate with team members, and access detailed test reports.
 
 __Metabase__
