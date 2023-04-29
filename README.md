@@ -18,7 +18,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com)
 ## Skills
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
-__Manual testing__
+__Manual Testing__
 As a Quality Analyst with experience in manual testing, I can perform a wide range of testing activities to ensure the quality of software products, including:
   * Functional Testing: I can manually test each feature of the software to ensure that it functions as intended.
   * User Acceptance Testing (UAT): I can perform UAT to ensure that the software meets the needs of end-users.
@@ -33,7 +33,7 @@ __Test Analysis, Planning and Design__
   * Familiarity with functional product decomposition, the creation of state transition diagrams, and writing use cases.
   * Thorough understanding of equivalence partitioning, boundary value analysis, and pairwise testing. I am proficient in applying these methods to generate comprehensive test input data, ensuring maximum test coverage and defect detection.
 
-__API testing__
+__API Testing__
   * Sound understanding of the difference between SOAP and REST APIs.
   * Experience in manual testing of APIs created for educational purposes.
   * Manipulating requests and creating test cases using the SoapUI tool, which enhances my API testing capabilities.
