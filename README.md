@@ -5,6 +5,8 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
+  * [Manual Testing Projects](#Manual-testing-projects)
+
 
 ## About me
 I am a Quality Analyst with a passion for ensuring the quality of software products. With 3+ years of experience, I have a proven track record in testing windows, web, and android applications. I specialize in User Acceptance Testing (UAT) and Functional Testing, and I am proficient in GUI Testing, blackbox testing, and other testing methodologies. My attention to detail is second to none, and I am driven by the challenge of delivering flawless products.
@@ -73,6 +75,24 @@ __Metabase__
 
 __Mind maps & diagrams__
   * Know how to design beautifully simple mind maps
+
+
+## Courses
+__Software Development Engineer In Testing__  
+*Seed Infotech*  
+Exhaustive Manual and Automation Testing Course,All-inclusive training.  
+
+__Setting a Foundation for Successful Test Automation__  
+*TestAutomationU*
+
+
+## Examples of my work
+
+
+
+### Manual Testing Projects
+- [Abans Trade Import Module] was used to create demo test cases
+  *Created comprehensive tests and successfully executed 20000+ test cases and scenarios for Multiple Trading and Settlement Terminals under ‘Zicuro Trade', 'ABANS One' and 'Navjeevan' projects with 100% compliance to customer requirements.
 
 
 
