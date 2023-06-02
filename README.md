@@ -4,7 +4,7 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+- [ Worked On](#Projects-i-Have-Worked-On)
   * [Manual Testing Projects](#Manual-testing-projects)
 
 
@@ -86,7 +86,7 @@ __Setting a Foundation for Successful Test Automation__
 *TestAutomationU*
 
 
-## Examples of my work
+## Projects I Have Worked On
 
 
 
