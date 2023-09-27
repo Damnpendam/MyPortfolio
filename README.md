@@ -14,7 +14,7 @@ I am a Quality Analyst with a passion for ensuring the quality of software produ
 I believe that continuous learning is the key to success, and I am committed to keeping up-to-date with the latest testing tools and techniques. My communication and collaboration skills make me an asset to any team, and I am always eager to share my knowledge and learn from others. I am dedicated to using my skills and experience to help organizations deliver high-quality software products that meet their clients' needs.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://docs.google.com/document/d/1tt2BoXBDfKbIug9IeRsKTVz6nNAcdf7q/edit?usp=sharing&ouid=106609139605943917239&rtpof=true&sd=true)
+You can download my CV [From my Google Drive](https://docs.google.com/document/d/1tt2BoXBDfKbIug9IeRsKTVz6nNAcdf7q/edit?usp=sharing&ouid=106609139605943917239&rtpof=true&sd=true)
 
 
 ## Skills
