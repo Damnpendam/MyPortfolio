@@ -100,23 +100,21 @@ __Setting a Foundation for Successful Test Automation__
  was used to create demo test cases
   *Created comprehensive tests and successfully executed 20000+ test cases and scenarios for Multiple Trading and Settlement Terminals under ‘Zicuro Trade', 'ABANS One' and 'Navjeevan' projects with 100% compliance to customer requirements.
 
-- __Ketto Stories Page Revamp__
+__Ketto Stories Page Revamp__
 *Created end to end test plan for Ketto's Major revenue channel which is story page.
 *Designed test scenarios and test cases to ensure 100% coverage
 *Made live with 0 Production bugs
 [Example link](ketto.org/new/stories/helpabir)
 
-- __ClanX.ai__
+__ClanX.ai__
 *Conducted UI and cross-browser testing for clanX.ai ([link](https://clanX.ai)).
 *Ensured that the user interface was consistent and functional across all major browsers and devices.
 *Identified and fixed several UI defects, preventing them from impacting the user experience.
 
--__Korrect__
+__Korrect__
 *Conducted thorough end-to-end testing, User Acceptance Testing (UAT), and cross-browser testing for Korrect, a user feedback management tool. 
 *Created detailed test plans for different user paths and modules. 
 *Provided valuable suggestions to enhance the application's usability and functionality.
-
-
 
 ###And More
 
