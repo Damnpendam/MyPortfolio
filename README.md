@@ -74,13 +74,18 @@ __Metabase__
   * Capable of using Kanban boards and Agile methodologies such as Scrum to track project progress and manage software development projects effectively. 
 
 __Mind maps & diagrams__
-  * Know how to design beautifully simple mind maps
+  * I can use mindmaps and flow charts to visualize complex information and identify relationships between different concepts.
+  * I can use mindmaps and flow charts to brainstorm ideas and develop creative solutions.
+  * I can use mindmaps and flow charts to communicate complex information in a clear and concise way.
+    [example here](https://whimsical.com/sip-flow-chart-cKw24Hs9t9U1XoESQihkK)
+
+
 
 
 ## Courses
 __Software Development Engineer In Testing__  
 *Seed Infotech*  
-Exhaustive Manual and Automation Testing Course,All-inclusive training.  
+Exhaustive Manual and Automation Testing Course, All-inclusive training.  
 
 __Setting a Foundation for Successful Test Automation__  
 *TestAutomationU*
@@ -93,6 +98,17 @@ __Setting a Foundation for Successful Test Automation__
 ### Manual Testing Projects
 - [Abans Trade Import Module] was used to create demo test cases
   *Created comprehensive tests and successfully executed 20000+ test cases and scenarios for Multiple Trading and Settlement Terminals under ‘Zicuro Trade', 'ABANS One' and 'Navjeevan' projects with 100% compliance to customer requirements.
+
+[Ketto Stories Page Revamp]
+- Created end to end test plan for Ketto's Major revenue channel which is story page.
+- Designed test scenarios and test cases to ensure 100% coverage
+- Made live with 0 Production bugs
+[Example link](ketto.org/new/stories/helpabir)
+
+[ClanX.ai]
+- Conducted UI and cross-browser testing for clanX.ai ([link](https://clanX.ai)).
+- Ensured that the user interface was consistent and functional across all major browsers and devices.
+- Identified and fixed several UI defects, preventing them from impacting the user experience.
 
 
 
