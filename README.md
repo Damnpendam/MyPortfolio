@@ -96,7 +96,7 @@ __Setting a Foundation for Successful Test Automation__
 
 
 ### Manual Testing Projects
-- __Abans Trade Import Module__
+__Abans Trade Import Module__
  was used to create demo test cases
   *Created comprehensive tests and successfully executed 20000+ test cases and scenarios for Multiple Trading and Settlement Terminals under ‘Zicuro Trade', 'ABANS One' and 'Navjeevan' projects with 100% compliance to customer requirements.
 
